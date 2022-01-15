@@ -156,6 +156,7 @@ a.bordered {
   border: 0.5px solid #ffffff;
   border-radius: 6px;
   margin-right: 24px;
+  cursor: pointer;
 }
 
 .connection {
