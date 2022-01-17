@@ -294,8 +294,7 @@ header {
 .BI-tool {
   display: flex;
 }
-.BI-tool_text {
-}
+
 .BI-tool_image-1 {
   position: relative;
   top: -88px;
